@@ -1,14 +1,14 @@
 # daesh
 twitter data relating to daesh
 
-CSV file in UTF-8
-
+CSV files in UTF-8
 filename format -' FR|FL - 'username' - 'date collected'
 
 FR -' list of who 'username' is following
 FL -' list of followers of 'username'
+TW - tweets
 
-names for fields in FR files are: 
+names for fields in FR/FL files are: 
 SEQ, ID, NAME, TWITTERNAME, DESCRIPTION, FOLLOWERS, FRIENDS, LISTS, TWEETS, LOCATION, TIMEZONE, CREATED, URL   
 
 SEQ -' in sequential order from last to first
